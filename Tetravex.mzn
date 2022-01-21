@@ -1,7 +1,6 @@
 include "alldifferent.mzn";
 
 int: N; %size
-
 array[1..N*N,1..4] of 0..9: puzzle; %input sequence
 
 array[1..N*N] of var int: res; %variables
