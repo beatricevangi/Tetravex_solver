@@ -16,7 +16,3 @@ La repository comprende:
 Per riprodurre i risultati da MiniZincIDE, nella prima riga del file Tetravez.mzn si deve aggiungere *include "_.dzn"*, sostituendo l'underscore con il nome del data file desiderato.
 
 Il solver che è stato utilizzato è Gecode 6.3.0.
-
-
-
-Sito usato per generare un insieme di tessere tali che il puzzle sia risolvibile: https://smart-games.org/en/tetravex/game/
