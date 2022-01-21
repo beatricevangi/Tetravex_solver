@@ -13,6 +13,6 @@ La repository comprende:
 
 ## Come replicare i risultati:
 
-Per riprodurre i risultati da MiniZincIDE, nella prima riga del file Tetravez.mzn si deve aggiungere *include "_.dzn"*, sostituendo l'underscore con il nome del data file desiderato.
+Per riprodurre i risultati da MiniZincIDE, nella prima riga del file Tetravex.mzn si deve aggiungere *include "_.dzn"*, sostituendo l'underscore con il nome del data file desiderato.
 
 Il solver che è stato utilizzato è Gecode 6.3.0.
