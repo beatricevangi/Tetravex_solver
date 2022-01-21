@@ -9,7 +9,7 @@ In questo elaborato il modello è stato sviluppato con MiniZinc.
 
 La repository comprende:
 - un file .mzn, che contiene il modello
-- 4 file .dzn, che contengono ciascuno due instanze di dati. Ogni file è riferito a un diverso valore di n (∈ [ 3, 6 ])
+- 8 file .dzn, che contengono ciascuno un'instanza di dati, con valori di n (∈ [ 3, 6 ])
 
 ## Come replicare i risultati:
 
@@ -17,8 +17,6 @@ Per riprodurre i risultati da MiniZincIDE, nella prima riga del file Tetravez.mz
 
 Il solver che è stato utilizzato è Gecode 6.3.0.
 
-
-## Come interpretare l'output:
 
 
 Sito usato per generare un insieme di tessere tali che il puzzle sia risolvibile: https://smart-games.org/en/tetravex/game/
