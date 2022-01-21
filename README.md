@@ -9,7 +9,7 @@ In questo elaborato il modello è stato sviluppato con MiniZinc.
 
 La repository comprende:
 - un file .mzn, che contiene il modello
-- 8 file .dzn, che contengono ciascuno un'instanza di dati, con valori di n (∈ [ 3, 6 ])
+- 8 file .dzn, che contengono ciascuno un'instanza di dati, con valori di n ∈ [ 3, 6 ]
 
 ## Come replicare i risultati:
 
